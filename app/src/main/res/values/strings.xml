@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Textos acima da linha horizontal 1 -->
+    <string name="app_name">Interface Netflix</string>
+    <string name="tv_series">Séries</string>
+    <string name="tv_filmes">Filmes</string>
+    <string name="tv_minha_lista">Minha lista</string>
+
+    <!-- Textos abaixo da linha horizontal 2 -->
+    <string name="tv_violencia">Violência</string>
+    <string name="tv_empolgante">Empolgante</string>
+    <string name="tv_sinistro">Sinistro</string>
+
+    <!-- Textos dos Botões -->
+    <string name="tv_button_assistir">Assistir</string>
+    <string name="tv_button_minha_lista">Minha Lista</string>
+    <string name="tv_button_detalhes">Detalhes</string>
+
+    <!-- Textos abaixo dos botões centrais -->
+    <string name="tv_lancamentos">Lançamentos</string>
+    <string name="tv_continuar_assistindo">Continuar Assistindo</string>
+
+
+
+</resources>
