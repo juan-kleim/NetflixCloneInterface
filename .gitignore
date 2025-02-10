@@ -1,15 +1,29 @@
+# Arquivos de configuração do Android Studio/IntelliJ (locais do usuário)
 *.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
+.idea/
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Configurações locais de build e SDK
+.gradle/
 local.properties
+
+# Pastas de build (geradas automaticamente)
+build/
+**/build/
+.cxx/
+.externalNativeBuild/
+
+# Capturas e arquivos temporários
+captures/
+
+# Arquivos de sistema (específicos de cada OS)
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Arquivos de log
+*.log
