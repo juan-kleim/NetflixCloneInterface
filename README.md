@@ -1,30 +1,30 @@
-# Netflix Initial Interface Clone
+# Netflix Home Clone
 
-Este é um clone básico da página inicial da Netflix, desenvolvido como parte do **Curso Android Completo** do professor **Jamilton Damasceno** na **Udemy**. O projeto foi criado para praticar conceitos de desenvolvimento Androi.
+This is a basic clone of Netflix's home page, developed as part of the **Complete Android Course** by **Jamilton Damasceno** on **Udemy**. The project was created to practice Android development concepts.
 
-## Funcionalidades
+## Features
 
-- Interface semelhante à página inicial da Netflix
-- Exibição de listas de filmes em categorias
+- Interface similar to Netflix's home page  
+- Display of movie lists in categories  
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-- **Java/Kotlin**
-- **Android Studio**
-- **ConstraintLayout** para organização da interface
+- **Java/Kotlin**  
+- **Android Studio**  
+- **ConstraintLayout** for interface organization  
 
-## Como Executar o Projeto
+## How to Run the Project
 
-1. Clone o repositório:
+1. Clone the repository:  
    ```bash
    git clone https://github.com/netflix-interface-clone.git
-   ```
-2. Abra o projeto no **Android Studio**.
-3. Conecte um dispositivo Android ou inicie um emulador.
-4. Execute o app clicando em **Run**.
 
-## Licença
+2. Open the project in **Android Studio**.  
+3. Connect an Android device or start an emulator.  
+4. Run the app by clicking **Run**.  
 
-Este projeto é apenas para fins educacionais e não está associado à Netflix. Sinta-se à vontade para usar o código como referência.
+## License  
 
-Feito com esforço, evoluindo sempre.
+This project is for educational purposes only and is not affiliated with Netflix. Feel free to use this code as a reference.  
+
+Made with dedication, always improving. 🚀  
